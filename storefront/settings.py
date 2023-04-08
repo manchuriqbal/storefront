@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'debug_toolbar',
     'playground',
     'home.apps.HomeConfig',
-    'store'
+    'store',
+    'likes'
 ]
 
 INTERNAL_IPS = [
